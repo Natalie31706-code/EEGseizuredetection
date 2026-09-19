@@ -6,8 +6,10 @@ The extracted features are then fed into a trained Machine Learning model that c
 The results are presented through an intuitive graphical interface that displays the original and processed EEG waveforms, the classification result, and analysis history. Overall, the project aims to demonstrate how signal processing and AI can support EEG analysis, reduce manual analysis time, and provide an accessible decision support tool for seizure screening, while final medical interpretation remains the responsibility of qualified healthcare professionals.
 
 
-### Live Demo 
+## Live Demo 
 [View the Demo](https://70b653718263e7ad68.gradio.live/)
+<br>
+ you can try by adding files **S010.txt** as a normal brain signal and **Z101.txt** as abnormal brain signal
 
 
 ## Key Features
@@ -31,6 +33,9 @@ The results are presented through an intuitive graphical interface that displays
 <img width="1917" height="871" alt="Screenshot 2026-09-19 203518" src="https://github.com/user-attachments/assets/bdd0b76d-3e67-4e54-b17b-9a41447b3c63" />
 
 <img width="1917" height="866" alt="Screenshot 2026-09-19 203538" src="https://github.com/user-attachments/assets/7fed88f4-7a3d-4de4-a16e-27eaf909a224" />
+
+<img width="1917" height="865" alt="Screenshot 2026-09-19 220118" src="https://github.com/user-attachments/assets/ab31633c-2c2c-4450-b6cf-7f2d32f1a102" />
+
 
 
 ## Project Purpose
