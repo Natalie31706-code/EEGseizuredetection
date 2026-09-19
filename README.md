@@ -10,10 +10,10 @@ The results are presented through an intuitive graphical interface that displays
 [View the Demo](https://70b653718263e7ad68.gradio.live/)
 <br>
 <br>
-You can try by downloading the code as ZIP file, extracting it then adding files **N010.txt** as a normal brain signal and **Z101.txt** as abnormal brain signal
+You can try by downloading the code as ZIP file, extracting it then adding files **N010.txt** as a normal brain signal and **Z101.txt** as abnormal brain signal.
 <br>
 <br>
- **In google colab:** run each cell one by one
+ **In google colab:** run each cell one by one, in second cell uploud **kaggle.json** file.
 
 
 ## Key Features
