@@ -9,7 +9,11 @@ The results are presented through an intuitive graphical interface that displays
 ## Live Demo 
 [View the Demo](https://70b653718263e7ad68.gradio.live/)
 <br>
- you can try by downloading the code as ZIP file, extracting it then adding files **N010.txt** as a normal brain signal and **Z101.txt** as abnormal brain signal
+<br>
+You can try by downloading the code as ZIP file, extracting it then adding files **N010.txt** as a normal brain signal and **Z101.txt** as abnormal brain signal
+<br>
+<br>
+ **In google colab:** run each cell one by one
 
 
 ## Key Features
