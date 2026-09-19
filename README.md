@@ -1,7 +1,7 @@
 # EEG Seizure Detection Project
 
 ### Project Overview
-We propose an AI-powered EEG Seizure Detection System that combines fundamental Digital Signal Processing (DSP) techniques with Machine Learning to analyze and interpret EEG (brain) signals. The system processes EEG recordings through preprocessing, filtering, and noise reduction techniques, followed by time and frequency domain analysis and meaningful feature extraction.
+This project proposes an AI-powered EEG Seizure Detection System that combines fundamental Digital Signal Processing (DSP) techniques with Machine Learning to analyze and interpret EEG (brain) signals. The system processes EEG recordings through preprocessing, filtering, and noise reduction techniques, followed by time and frequency domain analysis and meaningful feature extraction.
 The extracted features are then fed into a trained Machine Learning model that classifies EEG patterns as either Normal or Abnormal, enabling the system to identify seizure-related brain activity. This approach demonstrates how Digital Signal Processing and Machine Learning can be applied to real-world biomedical signals for automated seizure detection.
 The results are presented through an intuitive graphical interface that displays the original and processed EEG waveforms, the classification result, and analysis history. Overall, the project aims to demonstrate how signal processing and AI can support EEG analysis, reduce manual analysis time, and provide an accessible decision support tool for seizure screening, while final medical interpretation remains the responsibility of qualified healthcare professionals.
 
